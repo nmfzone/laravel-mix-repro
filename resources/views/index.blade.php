@@ -1,5 +1,7 @@
 @extends('layouts.base')
 
 @section('content')
-    {{-- APP --}}
+    <div class="mt-6">
+      App
+    </div>
 @endsection
